@@ -1,0 +1,11 @@
+_NAME_         _ROLL_  _SEC_    _YEAR_      _STREAM_
+
+Rudra Saha       67      B       2023       CSE(AI)
+
+Satyadeep       72      B       2023       CSE(AI)
+
+Rudranil Jha       68      B       2023       CSE(AI)
+
+Shreedeep Dey       32      B       2023       CSE(CORE)
+
+Reyan Chakrabarti       65      B       2023       CSE(AI)
