@@ -41,3 +41,9 @@ add_one_more.user_occupation="Teacher"
 add_one_more.user_salary="10$/M"
 # print(add_one_more.get_user_info())
 add_one_more.get_user_info()
+def Average(*args):
+  sum = 0
+  for arg in args:
+    sum = sum + arg
+  print("Average is:",sum/len(args))
+Average(1,2,3,4,5,6)
